@@ -4,6 +4,8 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  transition: all 1s ease;
+
   scroll-behavior: smooth;
 }
 
@@ -143,7 +145,7 @@ header::before {
   background-repeat: no-repeat;
   background-size: cover;
   filter: saturate(0);
-  opacity: 0.8;
+  opacity: 0.2;
 }
 
 .header-content {
