@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mundo Invertido | Semana Front-end</title>
+    <title>Mundo Invertido</title>
 
     <link rel="stylesheet" href="assets/css/styles.css" />
   </head>
@@ -132,9 +132,23 @@
       <img src="assets/images/footer/logo.svg" alt="">
     </footer>
     
-    <script src="assets/js/main.js" defer></script>
+    
     <script>
-      
+      AOS.init({
+        duration: 1000,
+        once: true,
+      });
+
+      function switchTheme() {
+        document.body.classList.toggle("dark-theme");
+        document.body.classList.toggle("light-theme");
+        
+        const isDark = document.body.classList.contains("dark-theme");
+        document.body.setAttribute(
+          "aria-label",
+          isDark ? "O site está utilizando o tema escuro" : "O site está utilizando o tema claro"
+        );
+      }
     </script>
   </body>
 </html>
