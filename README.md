@@ -24,12 +24,6 @@
 - **Google Fonts** 🆎: Fontes personalizadas para melhor tipografia.
 - **YouTube Embed** 🎥: Integração de vídeos diretamente do YouTube.
 
-## 🎨 Personalização
-
-- Alterar Temas 🌈: Personalize as cores e estilos no arquivo styles.css utilizando variáveis CSS.
-- Adicionar Conteúdo 📝: Edite o conteúdo das seções no index.html conforme suas preferências.
-- Atualizar Imagens e Áudio 🎬🎶: Substitua as imagens e arquivos de áudio na pasta assets para personalizar o site.
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você encontrar um bug, tiver uma sugestão de melhoria ou quiser adicionar uma nova funcionalidade, sinta-se à vontade para criar um issue ou pull request. Siga estas etapas:
