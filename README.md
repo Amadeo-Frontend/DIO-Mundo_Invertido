@@ -8,7 +8,7 @@
 
 ## ▶ LIVE
 
-<a href="https://dio-mundo-invertido.vercel.app/" target="_blank">Clique Aqui</a>
+<a href="https://dio-mundo-invertido.vercel.app/" target="_blank">Clique Aqui</a> e confira tudo o que está por vir na próxima termporada!!!
 
 ## 🚀 Funcionalidades
 
