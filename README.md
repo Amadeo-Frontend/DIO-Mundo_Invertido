@@ -6,6 +6,10 @@
 
 **Mundo Invertido** é um projeto web interativo desenvolvido durante a **Semana Front-end** da **DIO**. Inspirado no universo de **Stranger Things** e **Dungeons & Dragons**, este site oferece uma experiência imersiva para os usuários explorarem o misterioso Mundo Invertido, interagirem com personagens icônicos e se inscreverem no clube de D&D mais famoso de Hawkings.
 
+## ▶ LIVE
+
+<a href="https://dio-mundo-invertido.vercel.app/" target="_blank">Clique Aqui</a>
+
 ## 🚀 Funcionalidades
 
 - **Tema Claro e Escuro** 🌗: Alternância entre temas para melhor visualização conforme a preferência do usuário.
